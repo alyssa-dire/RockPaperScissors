@@ -1,0 +1,21 @@
+body {
+	background-color: #e0e0e0;
+	text-align: center;
+	position: center; 
+}
+
+p{
+	font: 50px Arial sans-serif;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited  {
+    color: #660066;
+}
+
+a:active, a:hover {
+    color:  #000066;
+}
